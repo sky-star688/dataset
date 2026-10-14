@@ -1,0 +1,4 @@
+filepath,component,label,split,section_id,capture_batch,camera,timestamp,annotator,annotation_version
+raw/sec01/fastener/abnormal/IMG_0001.jpg,fastener,abnormal,,sec01,batch202401,cam01,2024-01-10T09:12:00,zhangsan,v1
+raw/sec01/fastener/normal/IMG_0002.jpg,fastener,normal,,sec01,batch202401,cam01,2024-01-10T09:12:02,zhangsan,v1
+raw/sec02/sleeper/abnormal/IMG_0003.jpg,sleeper,abnormal,,sec02,batch202401,cam02,2024-01-11T14:03:10,lisi,v1

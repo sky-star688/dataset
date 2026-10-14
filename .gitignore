@@ -1,0 +1,16 @@
+# image files (managed via Git LFS / DVC, not committed directly)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.webp
+
+# keep directory markers
+!.gitkeep
+
+# generated artifacts
+__pycache__/
+*.pyc
+.DS_Store
